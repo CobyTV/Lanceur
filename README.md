@@ -103,7 +103,7 @@ Sur la page d'un jeu, le Lanceur compare les prix de :
 - **Revendeurs de clés** : Instant Gaming
 - **Comparateurs de prix** : AllKeyShop, GG.deals
 
-Le moins cher est mis en avant, avec son pourcentage de réduction. Chaque prix est un bouton qui ouvre directement l'offre. Les clés en rupture de stock sont grisées. Quand il y a plusieurs éditions, le Lanceur les compare aussi.
+Le comparatif ne porte que sur des clés de jeu, jamais sur des ventes de comptes. Le moins cher est mis en avant, avec son pourcentage de réduction. Chaque prix est un bouton qui ouvre directement l'offre. Les clés en rupture de stock sont grisées. Quand il y a plusieurs éditions, le Lanceur les compare aussi.
 
 Dans les réglages, tu choisis la boutique dont le prix s'affiche en priorité. Sur la page du jeu, tu peux aussi masquer les revendeurs de clés.
 
