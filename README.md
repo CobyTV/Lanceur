@@ -15,7 +15,7 @@
 > **Le Lanceur est en bêta.** Ce n'est pas encore la version définitive : pour l'instant, il s'agit surtout de corriger et d'améliorer ce qui existe déjà, plus que d'ajouter des nouveautés. Des correctifs, des mises à jour et de nouvelles fonctions arriveront au fil des versions, et elles s'installeront automatiquement depuis l'application.
 
 <p align="center">
-  <img src="captures/accueil.jpg" alt="Accueil du Lanceur : jeux récents et consoles" width="100%">
+  <img src="captures/accueil-v019.jpg" alt="Accueil du Lanceur : jeux récents et consoles" width="100%">
 </p>
 
 Au premier lancement, le Lanceur parcourt ton PC : il trouve tes émulateurs et tes jeux, puis va chercher leurs jaquettes. L'accueil montre ensuite les jeux auxquels tu as joué récemment et une carte par console, avec son nombre de jeux et l'émulateur utilisé.
