@@ -23,11 +23,13 @@ Au premier lancement, le Lanceur parcourt ton PC : il trouve tes émulateurs et 
 ## Ce que fait le Lanceur
 
 - **Toute ta ludothèque au même endroit**
-    - Tes jeux d'émulation : Switch 2, Switch, Wii U, Wii, 3DS, DS, PS1, PS2, PS3, Xbox 360 et rétro
+    - Tes jeux d'émulation : Switch 2, Switch, Wii U, Wii, GameCube, 3DS, DS, PS1, PS2, PS3, Xbox 360 et rétro (NES, Super Nintendo, Nintendo 64, Game Boy Advance…)
     - Tous tes jeux PC : Steam, Epic, GOG, Ubisoft Connect, EA, Battle.net, Xbox et Rockstar
+- **Téléchargements et mises à jour de tes jeux PC** : lancés et suivis depuis le Lanceur, jusqu'à ce que le jeu soit prêt
 - **Chaque console a son univers** : son carrousel, ses couleurs, ses sons, et un menu inspiré de la console quand la vraie en avait un
 - **Une boutique qui compare les prix** : le prix le plus bas de chaque jeu, entre plusieurs boutiques officielles et revendeurs de clés
 - **Tes succès et ta musique** : tes succès réunis au même endroit, et ta musique pilotée sans quitter le Lanceur
+- **Des jeux libres prêts à jouer** : des dizaines de jeux gratuits et légaux (homebrew et jeux de fans) pour les consoles Nintendo, avec leur fiche et leur licence
 
 ## Chaque console a son univers
 
@@ -51,7 +53,7 @@ Tu peux aussi parcourir tes jeux en carrousel de boîtiers ou en grille, sans li
 
 ## Toute ta bibliothèque
 
-Tous tes jeux sur une seule page. Tu peux les filtrer par console, par launcher (Steam, Xbox…) ou par état : installés, non installés, À faire, Favoris, Famille. Tu peux aussi les trier par nom, par jeux récents ou par temps de jeu.
+Tous tes jeux sur une seule page. Tu peux les filtrer par console, par launcher (Steam, Xbox…) ou par état : installés, non installés, À faire, Favoris, Famille, jeux complets ou démos et playtests. Tu peux aussi les trier de A à Z, par derniers joués, par temps de jeu, par taille ou par disque : la valeur du tri s'affiche alors sur chaque jaquette.
 
 <p align="center">
   <img src="captures/bibliotheque.jpg" alt="Bibliothèque PC avec le menu d'un jeu ouvert" width="100%">
@@ -67,7 +69,24 @@ Les jaquettes te donnent l'essentiel d'un coup d'œil :
 | Voyant vert | Un jeu du Game Pass : le voyant est vert quand ton abonnement est actif, gris s'il ne l'est pas |
 | **Non installé**, en grisé | Le jeu t'appartient, mais il n'est pas sur ce PC |
 
-Fais un clic droit sur un jeu, ou maintiens Start à la manette, pour l'ajouter à « À faire », à tes favoris ou à ta liste de souhaits, ou pour ouvrir ses options : changer sa jaquette, choisir son émulateur…
+Fais un clic droit sur un jeu, ou maintiens Start à la manette, pour l'ajouter à "À faire", à tes favoris ou à ta liste de souhaits, ou pour ouvrir ses options : changer sa jaquette, choisir son émulateur…
+
+## Téléchargements
+
+> [!WARNING]
+> **Jeux PC uniquement : le téléchargement des jeux émulés n'est pas encore pris en charge.**
+
+La page Téléchargements réunit les installations et les mises à jour de tes jeux PC. "Installer" lance l'installation dans le launcher du jeu et la suit jusqu'à ce qu'il soit prêt à jouer.
+
+Avec Steam, le Lanceur va plus loin si tu actives son pilotage :
+
+- Le choix de la bibliothèque où installer le jeu
+- Les mises à jour en arrière-plan
+- Pause, reprise et annulation synchronisées avec Steam, dans les deux sens
+- La même progression que dans Steam
+
+> [!NOTE]
+> Pour l'instant, seul Steam a été testé. Avec Epic Games, Ubisoft Connect, GOG Galaxy et Rockstar, des problèmes sont possibles.
 
 ## La Boutique
 
@@ -114,15 +133,16 @@ Tu peux filtrer les jeux en cours, terminés ou pas commencés.
 
 ## Prochainement
 
-- Télécharger et mettre à jour tes jeux directement depuis le Lanceur (jeux PC uniquement : le téléchargement des jeux d'émulation n'est pas encore pris en charge)
+- Télécharger tes jeux d'émulation depuis le Lanceur, à partir de sources que tu ajoutes toi-même
+- Les téléchargements testés et fiables avec tous les launchers PC, pas seulement Steam
 - Un logo et une icône
-- Un vrai nom à la place de « Lanceur »
+- Un vrai nom à la place de "Lanceur"
 
 ## Installer
 
 1. Télécharge **Lanceur-Setup-x.y.z.exe** dans la [dernière version](https://github.com/CobyTV/Lanceur/releases/latest).
-2. Lance-le. Si Windows affiche « Windows a protégé votre ordinateur », clique sur
-   « Informations complémentaires » puis « Exécuter quand même ».
+2. Lance-le. Si Windows affiche "Windows a protégé votre ordinateur", clique sur
+   "Informations complémentaires" puis "Exécuter quand même".
 3. Choisis si tu veux un raccourci sur le Bureau et le lancement au démarrage de Windows.
 
 Les mises à jour arrivent ensuite toutes seules : au démarrage, une fenêtre propose la nouvelle version.
